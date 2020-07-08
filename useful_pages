@@ -1,0 +1,7 @@
+Atmel ICE guide:
+  http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-ICE_UserGuide.pdf
+
+User raspi to control Atmel ICE to flash:
+  https://www.youtube.com/watch?v=xy62eC6bd44
+Create raspi openocd flash for samd MCU
+  https://codensolder.com/blog/rip-swd-programmer
